@@ -196,7 +196,7 @@ def handle_file_upload(uploaded_file):
 
 # --- Streamlit Application Layout ---
 
-st.title("📄 EasyOCR Document Scanner (Structured and Raw Text)")
+st.title("📄 EasyOCR Document Scanner")
 st.markdown("Upload a document image (.jpg, .png) or a single-page PDF to extract text and structure it.")
 
 image_array = None
