@@ -1,0 +1,7 @@
+Flask
+easyocr
+opencv-python-headless  # Use headless for server environments without a GUI
+numpy
+pandas
+pdf2image
+Pillow  # Dependency for pdf2image/PIL
