@@ -5,4 +5,8 @@ numpy
 pandas
 pdf2image
 Pillow  # Dependency for pdf2image/PIL
+<<<<<<< HEAD
 PyMuPDF
+=======
+PyMuPDF
+>>>>>>> f66ff3a0b1d416140e3d53c9cebd53ac830d5763
